@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Echography Updates</title>
-    <link>https://github.com/natluenthaisong/Echography-Releases/releases</link>
-    <description>Signed updates for Echography on macOS.</description>
-    <language>en</language>
-  </channel>
+    <channel>
+        <title>Echography</title>
+        <item>
+            <title>1.3.0</title>
+            <pubDate>Wed, 09 Sep 2026 08:44:51 +0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/natluenthaisong/Echography-Releases/releases/download/v1.3.0-7/Echography-1.3.0.dmg" length="5560477" type="application/octet-stream" sparkle:edSignature="5Hyk9Gu4S/3vtgk8OETXpNdVNLWYN5FE8ypCuBfmKHvEme+ZiAqHg8OSgc9xZ+50bAUmjpPYEuiBg4eLeDN0BA=="></enclosure>
+        </item>
+    </channel>
 </rss><!-- sparkle-signatures:
-edSignature: k6i18oQAFSPzsjyywU2caTySAhtlNHayna+DD4Q8qHu6RSlg28OHx5rpoXv4B1BQiBYXaXrQ96lBGb7n49cLAQ==
-length: 628
+edSignature: pM/AEbQM28E5lxoC8XNkhlpV6sTiDgNXdS4GtLee4EA2Br0T4JTfN1Jtd+dOEdBXPaMqBJR3dpqOYKQEjtYeAQ==
+length: 1144
 -->
