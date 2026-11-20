@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Echography</title>
         <item>
-            <title>1.6.1</title>
-            <pubDate>Thu, 12 Nov 2026 23:34:01 +0700</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <title>1.7.0</title>
+            <pubDate>Fri, 20 Nov 2026 12:28:02 +0700</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/natluenthaisong/Echography-Releases/releases/download/v1.6.1-14/Echography-1.6.1.dmg" length="5720253" type="application/octet-stream" sparkle:edSignature="qTEyd/1l9IffLGuyoqu+QCJPOO2QXg+JEAIz2YrHjjK8IY0+RtqkyFepwV7D96uKK5gmFApjbobrZ7Wja4vcAw=="></enclosure>
+            <enclosure url="https://github.com/natluenthaisong/Echography-Releases/releases/download/v1.7.0-15/Echography-1.7.0.dmg" length="5740356" type="application/octet-stream" sparkle:edSignature="fC6fL9MO5etIsDRyCuJOLtl9AeHom6oguDf++NS+q93HUAYOFZ1PhgGPJ4jCjeyMnvqcxrvikvWj3Yj0PvhfCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: KarhVz2I4ZU46usN7ciTAcqKnxHdtqfgP9lOn8QBEG70BdwIz9bQptigvsozB2TNOdnm74V8e5rDQbypDLm7AA==
+edSignature: 2sZUoCkd9XUWwmk4ef6wNWXJKkIL1Uy/c2eJ2QK/rnf43g5ZhX1JDURVcnSzw11wGnGcVVdbvOL6YIOZZB1ADg==
 length: 1146
 -->
